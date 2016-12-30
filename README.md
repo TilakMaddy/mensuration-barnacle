@@ -6,14 +6,15 @@
 
 ## Features 
 
-### Solids [] solids = {cube, cuboid, spehere};
+### Solids [ ] solids = { cube, cuboid, spehere };
 
 1. For any of the above solids, it can calculatie the following :
   * Lateral Surface Area
   * Total surface area
   * Volume   
   
-2. Code is organized with proper conventions for easy development and unit testing.
+2. Code is organized with proper conventions for easy development and unit testing. Feel free contribute for more solids !
+   I am a cool guy ~ pull requests I'm here **#ReadyToHelp**
 
 ## Screenshot
 
@@ -26,6 +27,5 @@
 ```
 javac Mensuration.java
 java Mensuration
-
 ```
 Good to go : ) Vola !
