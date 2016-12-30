@@ -6,6 +6,8 @@
 
 ## Features 
 
+### Solids [] solids = {cube, cuboid, spehere};
+
 1. For any of the above solids, it can calculatie the following :
   * Lateral Surface Area
   * Total surface area
@@ -21,7 +23,9 @@
 
 * The `Mensuration.java` is the main file that contains the main method so on executing that:
 
-```javac Mensuration.java
-   java Mensuration
+```
+javac Mensuration.java
+java Mensuration
+
 ```
 Good to go : ) Vola !
